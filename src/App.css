@@ -1,0 +1,31 @@
+.ques {
+  font-size: 20px;
+  font-weight: bolder;
+  font-family: 'Trebuchet MS';
+  
+}
+
+.header {
+  text-align: center;
+  font-weight: bold;
+  font-style: oblique;
+  font-size: 60px;
+  background-color: lightskyblue;
+}
+
+.button{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: right;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+}
+
+.option {
+  font-weight: normal;
+  font-family: Verdana;
+}
